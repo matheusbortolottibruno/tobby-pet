@@ -3,16 +3,19 @@
     box-sizing: border-box;
 }
 
-h4 {
+.h4 {
 
     text-align: center;
     color: #545454;
     position: absolute;
-    width: 103px;
-    height: 27px;
-    left: 136px;
-    top: 613px
-    
+    width: 200px;
+    height: 41px;
+    left: 88px;
+    top: 28px 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px
 }
 
 h1 {
@@ -21,6 +24,7 @@ h1 {
     font-family: 'Open Sans', ;
     font-weight: 700;
     width: 175px;
+    height: 54px;
     margin-top: 7px;
     margin-bottom: 11px;
     color: #1f9440;
@@ -29,7 +33,36 @@ h1 {
     align-items: center;
 }
 
-button1{
+label {
+    width: 78px;
+    height: 27px;
+    left: 42px;
+    top: 243px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+
+input {
+    width: 292px;
+    height: 34px;
+    left: 42px;
+    top: 191px;
+
+    background: #E9E9E9;
+
+
+
+}
+
+
+
+
+button {
     font-size: 30px;
     color: #ffffff;
     width: 270px;
@@ -40,9 +73,9 @@ button1{
     border-radius: 30px;
     align-items: center;
 }
-div
-button{
-     font-size: 30px;
+
+div button {
+    font-size: 30px;
     color: #ffffff;
     width: 270px;
     height: 62px;
@@ -55,6 +88,3 @@ button{
 
 
 }
-
-
-
