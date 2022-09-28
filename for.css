@@ -1,5 +1,60 @@
-*{
+* {
     margin: 0;
     box-sizing: border-box;
 }
+
+h4 {
+
+    text-align: center;
+    color: #545454;
+    position: absolute;
+    width: 103px;
+    height: 27px;
+    left: 136px;
+    top: 613px
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Open Sans', ;
+    font-weight: 700;
+    width: 175px;
+    margin-top: 7px;
+    margin-bottom: 11px;
+    color: #1f9440;
+    left: 100px;
+    top: 69px;
+    align-items: center;
+}
+
+button1{
+    font-size: 30px;
+    color: #ffffff;
+    width: 270px;
+    height: 62px;
+    top: 646px;
+    left: 53px;
+    background-color: #1f9440;
+    border-radius: 30px;
+    align-items: center;
+}
+div
+button{
+     font-size: 30px;
+    color: #ffffff;
+    width: 270px;
+    height: 62px;
+    top: 646px;
+    left: 53px;
+    background-color: #1f9440;
+    border-radius: 30px;
+    align-items: center;
+
+
+
+}
+
+
 
