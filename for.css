@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-.h4 {
+h4 {
 
     text-align: center;
     color: #545454;
@@ -25,12 +25,10 @@ h1 {
     font-weight: 700;
     width: 175px;
     height: 54px;
-    margin-top: 7px;
-    margin-bottom: 11px;
     color: #1f9440;
     left: 100px;
     top: 69px;
-    align-items: center;
+   
 }
 
 label {
@@ -73,8 +71,7 @@ button {
     border-radius: 30px;
     align-items: center;
 }
-
-div button {
+ button {
     font-size: 30px;
     color: #ffffff;
     width: 270px;
